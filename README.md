@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## About the Project
-Credits : React Udemy Course by Maximillian
+Learned From : React Udemy Course by Maximillian
 
 This project is a Simple Burger Builder Project,  a starter project to understand all the different concepts of React
 
