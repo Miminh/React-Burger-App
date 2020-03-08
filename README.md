@@ -1,5 +1,18 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About the Project
+Credits : React Udemy Course by Maximillian
+
+This project is a Simple Burger Builder Project,  a starter project to understand all the different concepts of React
+
+This project invoolves the use of extended libraries like :
+1. React-Router-DOM
+2. React-Redux
+3. React-Thunk
+and More of which can be found in the pacakge.json file
+
+Backend : With the help of Firebase i could store relevent data and provide authentication to the app
+
 ## Available Scripts
 
 In the project directory, you can run:
