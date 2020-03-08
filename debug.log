@@ -1,1 +1,2 @@
 [0212/223333.114:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0229/140240.487:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
