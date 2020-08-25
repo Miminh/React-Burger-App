@@ -1,17 +1,21 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## About the Project
-Learned From : React Udemy Course by Maximillian
+## React Burger App
 
-This project is a Simple Burger Builder Project,  a starter project to understand all the different concepts of React
+This project is a Simple Burger Builder Project, a starter project to understand all the different concepts of React
 
 This project invoolves the use of extended libraries like :
+
 1. React-Router-DOM
 2. React-Redux
 3. React-Thunk
-and More of which can be found in the pacakge.json file
+   and More of which can be found in the pacakge.json file
 
 Backend : With the help of Firebase i could store relevent data and provide authentication to the app
+
+## Deployed App Link
+
+> Go [here](https://reac-mimin-2-burger.web.app) to checkout the app
 
 ## Available Scripts
 
@@ -39,27 +43,3 @@ The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify

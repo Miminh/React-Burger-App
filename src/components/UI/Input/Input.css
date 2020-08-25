@@ -1,23 +1,26 @@
-.Input{
-    width: 100%;
-    padding: 10px;
+.Input {
+  width: 100%;
+  padding: 10px;
+  color: rgb(202, 200, 200);
 }
 
-.Label{
-    font-weight: bold;
-    font-size: 16px;
-    color: rgb(255, 253, 246);
-
+.Label {
+  display: block;
+  font-weight: bold;
+  font-size: 16px;
+  color: rgb(8, 7, 1);
+  padding: 0;
+  margin-bottom: 10px;
 }
 
-.Element{
-    font-size: 14px;
-    background: #ccc;
-    width: 80%;
-    padding : 2px;
+.Element {
+  font-size: 14px;
+  background: #ccc;
+  width: 80%;
+  padding: 2px;
 }
 
-.Invalid{
-    border : 1px solid red;
-    background: rgb(243, 163, 155);
+.Invalid {
+  border: 1px solid red;
+  background: rgb(243, 163, 155);
 }
